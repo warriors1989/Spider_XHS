@@ -34,3 +34,5 @@ AGENTS.md
 .agent
 docs
 docx
+tests
+.vscode
