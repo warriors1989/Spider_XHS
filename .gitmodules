@@ -1,0 +1,3 @@
+[submodule "learning_notes"]
+	path = learning_notes
+	url = https://github.com/warriors1989/python-learning-notes.git
